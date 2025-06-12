@@ -14,6 +14,7 @@ function App() {
         {/* About Section */}
         <p>
           This is a simple React website built using basic components.
+          Hlw world.
           <br />
           React lets you build user interfaces quickly and easily.
         </p>
